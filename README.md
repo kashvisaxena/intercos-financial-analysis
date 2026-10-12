@@ -59,3 +59,8 @@ Project Files
 - Cross-Sectional Peer Analysis
 - Financial Ratio Visuals
 - Supporting Charts
+<img width="2304" height="1296" alt="peer-analysis-conclusion" src="https://github.com/user-attachments/assets/fbbb9b19-32a0-40dc-826c-72e3256b1419" />
+<img width="2304" height="1296" alt="peer-benchmarking-summary" src="https://github.com/user-attachments/assets/7a2d24a1-995d-47e8-9ddc-ba0806eceadc" />
+<img width="1392" height="783" alt="leverage-ratios-2015-2024" src="https://github.com/user-attachments/assets/6d943461-2be5-4967-88d3-52577329c7ad" />
+<img width="1392" height="783" alt="liquidity-ratios-2015-2024" src="https://github.com/user-attachments/assets/34103d8b-9da5-4200-83fb-d924805715d3" />
+<img width="1392" height="783" alt="profitability-ratios-2015-2024" src="https://github.com/user-attachments/assets/7e953207-75c8-46cf-be58-50f2e47aa568" />
